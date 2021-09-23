@@ -6,16 +6,16 @@ The purpose of this project is to  identify the most popular time of the day to 
 ####  By **{Ruth Nguli}**
 
 ##  Methods Used
-Descriptive Statistics
-Machine learning
-predective modelling
+Descriptive Statistics,
+Machine learning,
+predective modelling and
 Inferantial Statistics
 
 ##  Technologies Used
-Python
-pandas 
-numpy
-SQL
+Python,
+pandas,
+numpy,
+SQL and
 Google Colab
 
 #  Projec Description
@@ -23,9 +23,9 @@ The dataset used is a  Autolib excel dataset Data that was extracted from openda
 The dataset contains data collected for a period of 9 days based on a survey carried April 2018.
 
 #  Needed for this Project
-Data exploration 
-Data cleaning
-Data Analysis
+Data exploration, 
+Data cleaning,
+Data Analysis and 
 Report writing in CRISP DM format
 
 ##  Support and contact details
