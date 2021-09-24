@@ -18,7 +18,7 @@ numpy,
 SQL and
 Google Colab
 
-#  Projec Description
+#  Project Description
 The dataset used is a  Autolib excel dataset Data that was extracted from opendataparis.com, where the Autolib availability information was available in real-time.
 The dataset contains data collected for a period of 9 days based on a survey carried April 2018.
 
